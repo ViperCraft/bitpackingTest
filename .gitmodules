@@ -1,0 +1,6 @@
+[submodule "SIMDCompressionAndIntersection"]
+	path = SIMDCompressionAndIntersection
+	url = https://github.com/lemire/SIMDCompressionAndIntersection.git
+[submodule "libvbyte"]
+	path = libvbyte
+	url = https://github.com/cruppstahl/libvbyte.git
